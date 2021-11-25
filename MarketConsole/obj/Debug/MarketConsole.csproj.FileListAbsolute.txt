@@ -1,0 +1,32 @@
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\MarketConsole.exe.config
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\MarketConsole.exe
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\MarketConsole.pdb
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\obj\Debug\MarketConsole.csproj.AssemblyReference.cache
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\obj\Debug\MarketConsole.csproj.CoreCompileInputs.cache
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\obj\Debug\MarketConsole.exe
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\obj\Debug\MarketConsole.pdb
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\System.Text.Json.dll
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\System.Memory.dll
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\System.Buffers.dll
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\obj\Debug\MarketConsole.csproj.CopyComplete
+D:\Projects\College\3 course\Задания для юниоров\MarketConsole\MarketConsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MarketConsole\MarketConsole\obj\Debug\MarketConsole.csprojAssemblyReference.cache
+D:\MarketConsole\MarketConsole\obj\Debug\MarketConsole.csproj.CoreCompileInputs.cache
+D:\MarketConsole\MarketConsole\obj\Debug\MarketConsole.exe
+D:\MarketConsole\MarketConsole\obj\Debug\MarketConsole.pdb
+D:\MarketConsole\MarketConsole\bin\Debug\MarketConsole.exe.config
+D:\MarketConsole\MarketConsole\bin\Debug\MarketConsole.exe
+D:\MarketConsole\MarketConsole\bin\Debug\MarketConsole.pdb
+D:\MarketConsole\MarketConsole\bin\Debug\System.Text.Json.dll
+D:\MarketConsole\MarketConsole\bin\Debug\System.Memory.dll
+D:\MarketConsole\MarketConsole\bin\Debug\System.Text.Encodings.Web.dll
+D:\MarketConsole\MarketConsole\bin\Debug\System.Numerics.Vectors.dll
+D:\MarketConsole\MarketConsole\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MarketConsole\MarketConsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MarketConsole\MarketConsole\bin\Debug\System.Buffers.dll
+D:\MarketConsole\MarketConsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MarketConsole\MarketConsole\obj\Debug\MarketConsole.csproj.CopyComplete
